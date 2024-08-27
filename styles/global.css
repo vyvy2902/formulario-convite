@@ -34,7 +34,7 @@
   --baloo-2: font-family: "Baloo 2", sans-serif;
   --open-sans: font-family: "Open Sans", sans-serif;
 
-  --logo: 400 2.5rem/auto var(var(--leckerli));
+  --logo: 400 2.5rem/ var(--leckerli);
 
   --heading-md: 800 1.75rem/auto var(--baloo-2);
   --heading-md: 800 1.125rem/auto var(--baloo-2);

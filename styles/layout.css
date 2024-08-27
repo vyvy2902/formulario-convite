@@ -1,0 +1,12 @@
+aside {
+  overflow: hidden;
+  height: 45.5rem;
+  background-image: url(../assets/Background.png);
+  background-size: cover;
+
+  h2 {
+    font: var(--logo);
+    color: var(--pink);
+  }
+
+}
